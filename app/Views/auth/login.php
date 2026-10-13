@@ -1,6 +1,6 @@
 <div class="row justify-content-center">
   <div class="col-md-6 col-lg-5">
-    <h1 class="h3 mb-4">Login</h1>
+    <h1 class="h3 mb-4">Login Pengguna</h1>
     <?php if (!empty($error)): ?>
       <div class="alert alert-danger" role="alert">
         <?= htmlspecialchars($error, ENT_QUOTES, 'UTF-8') ?>
