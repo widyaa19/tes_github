@@ -6,6 +6,6 @@
   <a class="btn btn-primary" href="<?= BASE_URL ?>/mahasiswa">Kelola Mahasiswa</a>
 </div>
 <section class="bg-white border rounded p-4">
-  <h2 class="h5">SI Akademik</h2>
+  <h2 class="h5">SI Akademik Widya</h2>
   <p class="mb-0">Anda berhasil masuk ke area yang dilindungi middleware autentikasi.</p>
 </section>
