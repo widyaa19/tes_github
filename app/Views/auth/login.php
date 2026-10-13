@@ -8,7 +8,7 @@
     <?php endif; ?>
     <form method="POST" action="<?= BASE_URL ?>/login" class="bg-white border rounded p-4">
       <div class="mb-3">
-        <label for="username" class="form-label">Username</label>
+        <label for="username" class="form-label">Masukkan Username</label>
         <input type="text" class="form-control" id="username" name="username" required autocomplete="username" value="<?= htmlspecialchars($_POST['username'] ?? '', ENT_QUOTES, 'UTF-8') ?>">
       </div>
       <div class="mb-3">
